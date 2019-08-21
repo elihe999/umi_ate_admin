@@ -1,4 +1,4 @@
-import { React } from 'react';
+import React from 'react';
 // import { connect } from 'dva';
 import Avatar from '@material-ui/core/Avatar';
 import Button from '@material-ui/core/Button';
